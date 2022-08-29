@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Che Thanh Vinh
-- 👀 I’m interested in Data analysis
+- 👀 I’m interested in Data analysis, my domain is Shipping Express, Ecommerce, Warehouse Logistics.
 - 🌱 I’m currently learning data cleaning, retreive data from multiple sources, make dashboards.
 - 💞️ I’m looking to collaborate on analyzing data for supporting decision making or automation (auto/realtime reports)
 - 📫 Reach me at chethanhvinh@gmail.com or call me 0947579981.
